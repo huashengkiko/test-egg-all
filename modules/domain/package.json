@@ -1,0 +1,10 @@
+{
+  "name": "@test-egg-all/domain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "kiko",
+  "license": "ISC"
+}
